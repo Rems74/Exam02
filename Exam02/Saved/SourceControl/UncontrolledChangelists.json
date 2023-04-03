@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Inputs/IMC_Player.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Animations/ABP_Player_Anim.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Blueprints/Third_Person_Gameplay.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Inputs/Player_Move.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Inputs/Player_Jump.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Inputs/Player_Attack.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Inputs/Player_Look.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Blueprints/BP_Ennemy.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Blueprints/BPI_Damage.uasset",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/Maps/Main_Map.umap",
+				"C:/Users/game2/Downloads/Exam02/Exam02/Content/BattleWizardPolyart/Meshes/UE4_Mannequin_Skeleton.uasset"
+			]
+		}
+	]
+}
